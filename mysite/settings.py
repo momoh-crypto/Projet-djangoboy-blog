@@ -25,7 +25,7 @@ SECRET_KEY = '*ierkbajl)cr_dfs+g#7(27^*r*jb5bg9sei04_kwfu(hhbj=@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' .pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'momohcrypto.pythonanywhere.com']
 
 
 # Application definition
